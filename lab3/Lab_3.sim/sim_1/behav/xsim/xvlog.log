@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okCoreHarness.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module okCore
+INFO: [VRFC 10-311] analyzing module okCoreHarness
+INFO: [VRFC 10-311] analyzing module ok_tfifo
+INFO: [VRFC 10-311] analyzing module fifo_generator_v13_2_5
+INFO: [VRFC 10-2263] Analyzing Verilog file "U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okLibrary.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module okHost
+INFO: [VRFC 10-311] analyzing module okWireOR
+INFO: [VRFC 10-2263] Analyzing Verilog file "U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okWireIn.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module okWireIn
+INFO: [VRFC 10-2263] Analyzing Verilog file "U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okWireOut.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module okWireOut
+INFO: [VRFC 10-2263] Analyzing Verilog file "U:/Downloads/ECE437/lab3/lab3_example.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab3_example
+INFO: [VRFC 10-2263] Analyzing Verilog file "U:/Downloads/ECE437/lab3/Lab_3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

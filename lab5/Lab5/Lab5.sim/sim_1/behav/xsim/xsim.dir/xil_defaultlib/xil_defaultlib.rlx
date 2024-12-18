@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Program Files/Opal Kelly/FrontPanelUSB/FrontPanelHDL/XEM7310-A75/Vivado-2021/okCoreHarness.v,1686667912,verilog,,C:/Program Files/Opal Kelly/FrontPanelUSB/FrontPanelHDL/XEM7310-A75/Vivado-2021/okLibrary.v,,fifo_generator_v13_2_5;okCore;okCoreHarness;ok_tfifo,,,,,,,,
+C:/Program Files/Opal Kelly/FrontPanelUSB/FrontPanelHDL/XEM7310-A75/Vivado-2021/okLibrary.v,1686667912,verilog,,C:/Program Files/Opal Kelly/FrontPanelUSB/FrontPanelHDL/XEM7310-A75/Vivado-2021/okWireIn.v,,okHost;okWireOR,,,,,,,,
+C:/Program Files/Opal Kelly/FrontPanelUSB/FrontPanelHDL/XEM7310-A75/Vivado-2021/okWireIn.v,1686667912,verilog,,U:/Downloads/ECE437/lab5/JTEG_Test_File.v,,okWireIn,,,,,,,,
+U:/Downloads/ECE437/lab5/ClockGenerator.v,1727216937,verilog,,U:/Downloads/ECE437/lab5/I2C_Transmit.v,,ClockGenerator,,,,,,,,
+U:/Downloads/ECE437/lab5/I2C_Transmit.v,1727216936,verilog,,C:/Program Files/Opal Kelly/FrontPanelUSB/FrontPanelHDL/XEM7310-A75/Vivado-2021/okCoreHarness.v,,I2C_Transmit,,,,,,,,
+U:/Downloads/ECE437/lab5/JTEG_Test_File.v,1727493081,verilog,,,,JTEG_Test_File,,,,,,,,
+U:/Downloads/ECE437/lab5/Lab5/Lab5.gen/sources_1/ip/ila_0/sim/ila_0.v,1727487006,verilog,,U:/Downloads/ECE437/lab5/ClockGenerator.v,,ila_0,,,,,,,,
+U:/Downloads/ECE437/lab5/Lab5/Lab5.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,

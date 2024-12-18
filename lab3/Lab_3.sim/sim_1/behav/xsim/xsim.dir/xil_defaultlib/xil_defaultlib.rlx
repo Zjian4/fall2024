@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+U:/Downloads/ECE437/lab3/Lab_3.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okCoreHarness.v,1686667912,verilog,,U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okLibrary.v,,fifo_generator_v13_2_5;okCore;okCoreHarness;ok_tfifo,,,,,,,,
+U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okLibrary.v,1686667912,verilog,,U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okWireIn.v,,okHost;okWireOR,,,,,,,,
+U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okWireIn.v,1686667912,verilog,,U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okWireOut.v,,okWireIn,,,,,,,,
+U:/Downloads/ECE437/lab3/Lab_3.srcs/sources_1/imports/Vivado-2021/okWireOut.v,1686667912,verilog,,U:/Downloads/ECE437/lab3/lab3_example.v,,okWireOut,,,,,,,,
+U:/Downloads/ECE437/lab3/lab3_example.v,1726770469,verilog,,,,lab3_example,,,,,,,,

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Sep 18 11:56:44 2024
+# Process ID: 14656
+# Current directory: U:/Downloads/ECE437/lab3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16400 U:\Downloads\ECE437\lab3\Lab_3.xpr
+# Log file: U:/Downloads/ECE437/lab3/vivado.log
+# Journal file: U:/Downloads/ECE437/lab3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project U:/Downloads/ECE437/lab3/Lab_3.xpr
+update_compile_order -fileset sources_1

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Oct 29 16:17:46 2024
+# Process ID: 23136
+# Current directory: U:/Downloads/ECE437/midterm/midterm/midterm.runs/synth_1
+# Command line: vivado.exe -log JTEG_Test_File.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source JTEG_Test_File.tcl
+# Log file: U:/Downloads/ECE437/midterm/midterm/midterm.runs/synth_1/JTEG_Test_File.vds
+# Journal file: U:/Downloads/ECE437/midterm/midterm/midterm.runs/synth_1\vivado.jou
+# Running On: ECEB-4022-04, OS: Windows, CPU Frequency: 3000 MHz, CPU Physical cores: 6, Host memory: 33554 MB
+#-----------------------------------------------------------
+source JTEG_Test_File.tcl -notrace
